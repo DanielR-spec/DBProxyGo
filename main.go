@@ -9,7 +9,7 @@ import "fmt"
 
 func main() {
     //db, err = sql.Open("mysql", "")
-    //Initial hello 
+    //Initial hello world
     fmt.Println("Hello World")
     //err = db.Ping()
 }
