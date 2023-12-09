@@ -55,4 +55,4 @@ The proxy can be configured through the `config.json` file. Modify the file to s
   "logLevel": "info"
 }    
 ```
-5.
+5. A
