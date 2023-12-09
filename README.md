@@ -53,11 +53,7 @@ The proxy can be configured through the `config.json` file. Modify the file to s
   ],
   "port": 8080,
   "logLevel": "info"
-<<<<<<< HEAD
 
-5. ADD PATH TO ENV
-=======
 ```
 5. ADD PATH
->>>>>>> 5448700e9db5af40ac3bcaa091dbb1a416483fcf
 
