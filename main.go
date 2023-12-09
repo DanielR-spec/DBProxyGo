@@ -1,3 +1,5 @@
+package main
+
 import "fmt"
 //import "database/sql"
 //import _ "go-sql-driver/mysql"
