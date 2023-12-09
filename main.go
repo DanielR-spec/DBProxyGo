@@ -8,8 +8,8 @@ import "fmt"
 
 
 func main() {
-	//db, err = sql.Open("mysql", "")
-	
+    //db, err = sql.Open("mysql", "")
+
     fmt.Println("Hello World")
     //err = db.Ping()
 }
