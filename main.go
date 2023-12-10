@@ -14,8 +14,8 @@ const (
     host     = "host"
     port     = 5432
     user     = "user"
-    password = ""
-    dbname   = ""
+    password = "password"
+    dbname   = "dbname"
   )
 
 func main() {
