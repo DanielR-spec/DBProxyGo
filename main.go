@@ -32,7 +32,6 @@ func main() {
     if err != nil {
         panic(err)
     }
-    defer db.Close()
 
     // Test the connection
     err = db.Ping()
@@ -41,5 +40,6 @@ func main() {
     }
 
     fmt.Println("Successfully connected!")
+    defer db.Close()
   
 }
